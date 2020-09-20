@@ -1,0 +1,761 @@
+body {
+    background-color: rgba(2, 2, 32, 0.61);
+}
+
+header nav a {
+    text-transform: capitalize;
+    font-family: 'Montserrat' !important;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+nav {
+    background-color: rgba(2, 2, 32, 0.945);
+}
+
+header nav ul li a {
+    color: #fff;
+    font-size: 28px;
+}
+
+header nav li a:hover {
+    border-bottom: 3px solid red;
+}
+
+header nav ul li:active {
+    color: rgb(250, 32, 12);
+}
+
+header nav ul li a:hover {
+    text-decoration: rgb(250, 32, 12);
+}
+
+span {
+    color: rgb(250, 32, 12);
+    font-weight: bolder;
+}
+
+.navbar-toggler-icon {
+    color: #fff;
+}
+
+.navbar-brand {
+    font-weight: bolder;
+    color: #fff;
+    font-size: 30px;
+}
+
+.brand {
+    font-weight: 900px;
+    font-size: 70px;
+}
+
+.brand1 {
+    color: #ffffff;
+    text-transform: lowercase;
+}
+
+.navbar-toggler-icon {
+    font-weight: bolder;
+}
+
+.dropdown-menu {
+    background-color: rgba(2, 2, 32, 0.61);
+}
+
+.dropdown-item {
+    color: red;
+}
+
+
+/*====== end of navbar========*/
+
+.hero-header {
+    background-image: url("../img/adult-beautiful-elegant-eyewear-291762.jpg");
+    background-size: contain;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.hero-text {
+    background-color: rgba(2, 2, 32, 0.5);
+    background-size: contain;
+    width: 100%;
+    height: 66vw;
+    background-repeat: no-repeat;
+}
+
+#page {
+    color: #ffffff;
+    padding-top: 18vw;
+    font-family: "Nunito Sans", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    font-weight: bolder;
+    font-size: 10vw;
+}
+
+.hero {
+    color: #fff;
+}
+
+.text1 {
+    font-size: 3vw;
+    font-family: "Montserrat" !important;
+}
+
+.btn1 {
+    border: 2px solid rgb(250, 32, 12);
+    margin-right: 40vw;
+    margin-left: 40vw;
+    margin-top: 3.5vw;
+    color: #fff;
+    font-size: 2vw;
+    padding: 5px;
+    font-weight: bolder;
+    border-radius: 5px;
+    font-family: 'Montserrat' !important;
+}
+
+
+/*====== end of hero-header========*/
+
+
+/*====== start section here========*/
+
+.col1 {
+    background-image: url("../img/fabric-scissors-needle-needles-scissors-461035.jpg");
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+.col2 {
+    background-image: url("../img/photo-of-women-s-clothing-1488463.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+.col3 {
+    background-image: url("../img/dressmaker-filming-her-self-happily-3984877.jpg");
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+.col4 {
+    background-image: url("../img/two-women-standing-near-roller-shutter-1158670.jpg");
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+.col5 {
+    background-image: url("../img/woman-in-white-red-and-black-striped-crew-neck-t-shirt-975006.jpg");
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+.col6 {
+    background-image: url("../img/woman-in-pink-and-white-floral-jacket-and-pants-sitting-on-886404.jpg");
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+.col7 {
+    background-image: url("../img/woman-in-brown-and-gray-t-shirt-sitting-on-brown-wooden-949670.jpg");
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+.cols:hover {
+    border-bottom: 5px solid rgb(250, 32, 12)
+}
+
+.bold1 {
+    background-color: rgba(2, 2, 32, 0.5);
+    background-size: contain;
+    width: 100%;
+    height: 22vw;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-weight: 1000px;
+    padding-top: 5vw;
+    text-transform: capitalize;
+    font-family: 'Montserrat';
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+}
+
+.bold1 h2 {
+    font-size: 52px;
+    font-weight: 900px;
+}
+
+.bold2 {
+    background-color: rgba(2, 2, 32, 0.5);
+    background-size: contain;
+    width: 100%;
+    height: 16vw;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-weight: 1000px;
+    padding-top: 5vw;
+    text-transform: capitalize;
+    font-family: 'Montserrat';
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+}
+
+#page {
+    padding-right: 10%;
+    padding-left: 30%;
+    font-family: 'Montserrat' !important;
+    font-weight: bolder;
+    font-size: 10vw;
+}
+
+.btn1:hover {
+    background-color: rgb(250, 32, 12);
+}
+
+.btn2 {
+    color: #fff;
+    font-family: 'Montserrat' !important;
+    border: 2px solid rgb(250, 32, 12);
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 2vw;
+    font-size: 20px;
+    padding: 7px;
+}
+
+.btn2:hover {
+    background-color: rgb(250, 32, 12);
+}
+
+.btn3 {
+    background-color: rgb(250, 32, 12);
+    color: #fff;
+    font-size: 25px;
+    padding: 5px;
+    font-weight: bolder;
+    border-radius: 5px;
+    font-family: 'Montserrat' !important;
+}
+
+.btn4 {
+    color: #fff;
+    font-family: 'Montserrat' !important;
+    border: 2px solid rgb(250, 32, 12);
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 2vw;
+    font-size: 20px;
+    padding: 7px;
+}
+
+.btn4:hover {
+    background-color: rgb(250, 32, 12);
+}
+
+.img1 {
+    width: 100%;
+    height: 35vw;
+}
+
+.img2 {
+    border-radius: 100%;
+    border-right: 10px solid rgb(250, 32, 12);
+}
+
+.text2 {
+    font-size: 3.5vw;
+    text-transform: capitalize;
+    font-family: 'Montserrat';
+    color: #ffffff;
+    font-weight: bolder;
+}
+
+.text2a {
+    text-transform: capitalize;
+    font-family: 'Montserrat';
+    color: #ffffff;
+    font-weight: bolder;
+    font-size: 1.5vw;
+}
+
+.text2b {
+    text-transform: capitalize;
+    font-family: 'Montserrat';
+    color: #ffffff;
+}
+
+.text3 {
+    background-image: linear-gradient(to right, rgba(2, 2, 32, 0.5), rgba(255, 0, 0, 0), rgba(255, 0, 0, 1));
+    color: #ffffff;
+    font-weight: bolder;
+}
+
+.text3a {
+    font-size: 4.5vw;
+    text-transform: capitalize;
+    font-family: 'Montserrat';
+    font-weight: bolder;
+}
+
+.text3b,
+.text5b {
+    padding-left: 20%;
+    margin-right: 20%;
+}
+
+.text4 {
+    background-image: linear-gradient(to left, rgba(2, 2, 32, 0.5), rgba(255, 0, 0, 0), rgba(255, 0, 0, 1));
+    color: #ffffff;
+    font-weight: bolder;
+}
+
+.text5 {
+    color: #ffffff;
+    font-weight: bolder;
+    font-family: 'Montserrat';
+}
+
+.text5a {
+    font-size: 3vw;
+}
+
+.footer {
+    background-color: rgba(2, 2, 32, 0.945);
+    color: #ffffff;
+    font-family: 'Montserrat';
+    font-size: 18px;
+}
+
+footer ul li a {
+    list-style-type: none;
+}
+
+.list-type li {
+    list-style: none;
+    color: #ffffff;
+}
+
+.contact ul li {
+    list-style: none;
+    color: #ffffff;
+}
+
+.dbrand a {
+    font-size: 30px;
+    color: #ffffff
+}
+
+footer h5 {
+    font-size: 30px;
+}
+
+input[type] {}
+
+
+/*header responsive
+
+    * Normal desktop :1200px. */
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .bold1 {
+        background-size: contain;
+        width: 100%;
+        height: 22vw;
+        background-repeat: no-repeat;
+        color: #fff;
+        padding-top: 5vw;
+        text-transform: capitalize;
+    }
+}
+
+
+/* Normal desktop :992px. */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    header nav ul li a {
+        font-size: 2.3vw;
+    }
+    #page {
+        padding-right: 10%;
+        padding-left: 25%;
+        font-family: 'Montserrat' !important;
+        font-weight: bolder;
+        font-size: 10vw;
+    }
+    .bold1 {
+        background-color: rgba(2, 2, 32, 0.5);
+        background-size: contain;
+        width: 100%;
+        height: 22vw;
+        background-repeat: no-repeat;
+        color: #fff;
+        padding-top: 5vw;
+        text-transform: capitalize;
+    }
+    .bold2 h2 {
+        font-size: 2vw;
+        padding-top: 0px;
+    }
+    .bold2 p {
+        font-size: 1vw;
+    }
+    .btn4 {
+        margin-left: 25%;
+        margin-right: 25%;
+        margin-top: 0px;
+        margin-bottom: 10vw;
+        font-size: 7px;
+        padding: 3px;
+    }
+    .btn2 {
+        color: #fff;
+        font-family: 'Montserrat' !important;
+        margin-left: 28%;
+        margin-right: 28%;
+        margin-top: 2vw;
+        font-size: 15px;
+        padding: 5px;
+    }
+    .navbar-brand {
+        font-size: 16px;
+    }
+    .bold1 h2 {
+        font-size: 3.6vw;
+    }
+    .brand1 {
+        font-size: 3vw;
+        color: #ffffff;
+    }
+}
+
+
+/* Tablet desktop :768px. */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .navbar-toggler-icon {
+        font-size: 50px;
+    }
+    .bold1 {
+        padding-left: 3vw;
+        padding-right: 5vw;
+        font-size: 12px;
+        padding-top: 10px;
+    }
+    .bold1 h2 {
+        font-size: 3.3vw;
+        font-weight: 900px;
+    }
+    .bold2 h2 {
+        font-size: 2vw;
+        padding-top: 0px;
+    }
+    .bold2 p {
+        font-size: 1vw;
+    }
+    .btn4 {
+        margin-left: 25%;
+        margin-right: 25%;
+        margin-top: 0px;
+        margin-bottom: 10vw;
+        font-size: 7px;
+        padding: 3px;
+    }
+    .btn2 {
+        margin-left: 15%;
+        margin-right: 15%;
+        margin-top: 0px;
+        margin-bottom: 10vw;
+        font-size: 15px;
+        padding: 3px;
+    }
+    .text2 {
+        font-size: 7vw;
+    }
+    .text2a {
+        font-size: 3vw;
+    }
+    .img1 {
+        height: 50vh;
+    }
+}
+
+
+/*smaller mobile:280*/
+
+
+/* small mobile :320px. */
+
+@media (max-width: 767px) {
+    .navbar-toggler-icon {
+        font-size: 5vw;
+    }
+    .brand {
+        font-size: 10vw;
+    }
+    .brand1 {
+        font-size: 4.8vw;
+    }
+    header nav ul li a {
+        font-size: 3vw;
+    }
+    #page {
+        padding-right: 15%;
+        padding-left: 30%;
+        font-size: 10vw;
+    }
+    .hero-header {
+        background-image: url("../img/adult-beautiful-elegant-eyewear-291762.jpg");
+        background-size: contain;
+        width: 100%;
+        height: 100%;
+        background-repeat: no-repeat;
+        object-fit: fill;
+    }
+    .bold1 {
+        background-color: rgba(2, 2, 32, 0.5);
+        background-size: contain;
+        width: 100%;
+        height: 68vw;
+        background-repeat: no-repeat;
+        color: #fff;
+        padding-top: 15vw;
+        padding-left: 10vw;
+        padding-right: 5vw;
+        text-transform: capitalize;
+    }
+    .bold1 h2 {
+        font-size: 26px;
+        font-weight: 900px;
+    }
+    .bold2 {
+        background-color: rgba(2, 2, 32, 0.5);
+        background-size: contain;
+        width: 100%;
+        height: 68vw;
+        background-repeat: no-repeat;
+        color: #fff;
+        padding-top: 15vw;
+        padding-left: 10vw;
+        padding-right: 5vw;
+        text-transform: capitalize;
+    }
+    .bold2 h2 {
+        font-size: 24px;
+    }
+    .bold2 p {
+        font-size: 15px;
+    }
+    .col1 {
+        background-size: 100%;
+        width: 100%;
+        height: 68vw;
+        background-repeat: no-repeat;
+    }
+    .col4,
+    .col5,
+    .col6,
+    .col7 {
+        height: 68vw;
+    }
+    .btn2 {
+        margin-left: 30%;
+        margin-right: 30%;
+        margin-top: 1vw;
+        margin-bottom: 2vw;
+        font-size: 3.65vw;
+        padding: 5px;
+    }
+    .btn3 {
+        font-size: 16px;
+    }
+    .btn4 {
+        font-size: 3.65vw;
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+    .btn1 {
+        margin-right: 35vw;
+        margin-left: 35vw;
+        margin-top: 3.5vw;
+        padding: 5px;
+        font-size: 3.65vw;
+    }
+    .text2 {
+        font-size: 9.5vw;
+    }
+    .text2a {
+        font-size: 6vw;
+    }
+    .text3 h2 {
+        font-size: 10vw;
+    }
+    .text4 h2 {
+        font-size: 10vw;
+    }
+    .text5 h2 {
+        font-size: 7vw
+    }
+    .text3a2 {
+        font-size: 8vw;
+    }
+    h2 {
+        color: #ffffff;
+        font-weight: bolder;
+        font-family: 'Montserrat';
+    }
+    .img1 {
+        height: 70vh;
+    }
+}
+
+
+/* Large Mobile :480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .brand1 {
+        text-transform: lowercase;
+    }
+    .bold1 {
+        background-color: rgba(2, 2, 32, 0.5);
+        background-size: contain;
+        width: 100%;
+        height: 68vw;
+        background-repeat: no-repeat;
+        color: #fff;
+        padding-top: 25vw;
+        text-transform: capitalize;
+    }
+    .bold2 {
+        height: 100vw;
+    }
+    .bold2 h2 {
+        font-size: 28px;
+    }
+    .col1 {
+        background-size: 100%;
+        width: 100%;
+        height: 68vw;
+        background-repeat: no-repeat;
+    }
+    .img1 {
+        height: 70vh;
+    }
+    .btn2 {
+        margin-left: 35%;
+        margin-right: 35%;
+        margin-top: 2vw;
+        font-size: 15px;
+        padding: 5px;
+    }
+    .btn3 {
+        font-size: 16px;
+    }
+    .btn4 {
+        font-size: 5px;
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+}
+
+
+/*====about.css====*/
+
+.hero1-header {
+    background-image: url("../img/spool-of-purple-thread-near-needle-thimble-and-measuring-1266139.jpg");
+    background-size: contain;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.hero-text1 {
+    background-color: rgba(2, 2, 32, 0.5);
+    background-size: contain;
+    width: 100%;
+    height: 58vw;
+    background-repeat: no-repeat;
+}
+
+.hero1a-header {
+    background-image: url("../img/pexels-suzy-hazelwood-1232131.jpg");
+    background-size: contain;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.hero-text1a {
+    background-color: rgba(2, 2, 32, 0.5);
+    background-size: contain;
+    width: 100%;
+    height: 56vw;
+    background-repeat: no-repeat;
+}
+
+#page1 {
+    color: #ffffff;
+    padding-top: 18vw;
+    font-family: "Nunito Sans", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    font-weight: bolder;
+    font-size: 10vw;
+}
+
+.hero {
+    color: #fff;
+}
+
+.text1 {
+    font-size: 3vw;
+    font-family: "Montserrat" !important;
+}
+
+.btn1 {
+    border: 2px solid rgb(250, 32, 12);
+    margin-right: 40vw;
+    margin-left: 40vw;
+    margin-top: 3.5vw;
+    color: #fff;
+    font-size: 2vw;
+    padding: 5px;
+    font-weight: bolder;
+    border-radius: 5px;
+    font-family: 'Montserrat' !important;
+}
+
+.text3a1,
+.colsA,
+.colA {
+    color: #ffffff;
+    background-color: rgba(2, 2, 32, 0.5);
+    font-family: 'Montserrat';
+}
+
+.btn6 {
+    background-color: rgb(250, 32, 12);
+}
